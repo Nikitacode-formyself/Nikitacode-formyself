@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Nikitacode-formyself in short Nikitaor Nikki
+- 👀 I’m interested in coding,researching,hackathons and working with small projects.
+- 🌱 I’m currently learning Data Structure Algorithm with C++ and basic Python LIbraries.
+- 💞️ I’m looking to collaborate on Projects in group or self with request.
+- 📫 How to reach me " Work in Progress "
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I am not new or very old but worked in few projects like Donkey Car based on Python Library, Speech to word also based on Python, or Comparison website as my latest work.
